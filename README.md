@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/karthiklakshmanan5689/First_Pipeline/_apis/build/status/klakshmanan5.Apppipelines?branchName=master)](https://dev.azure.com/karthiklakshmanan5689/First_Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
